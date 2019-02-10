@@ -1,0 +1,136 @@
+{
+  "features": [
+    {
+      "properties": {
+        "id": "AB"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [2, 2],
+          [3, 8.001]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": "AC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [2, 2],
+          [6, 4]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": "AD"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [2, 2],
+          [8, 1]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": "BE"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [3, 7.999],
+          [10, 6]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": "BF"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [3, 8],
+          [10, 10]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": "CE"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [6, 4],
+          [10, 6]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": "DE"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [8, 1],
+          [10, 6]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": "DG"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [8, 1],
+          [14, 5]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": "EF"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [10, 6],
+          [10, 10]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": "EG"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [10, 6],
+          [14, 5]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "id": "FG"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [10, 10],
+          [14, 5]
+        ]
+      }
+    }
+  ]
+}
